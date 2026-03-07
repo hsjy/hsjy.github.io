@@ -2,17 +2,26 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/hsjy"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
+#   url: "mailto:hsjy_321@126.com"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: bilibili
+  icon: "fab fa-bilibili"
+  url: "https://space.bilibili.com/703022990"
+
+- type: zhihu
+  icon: "fab fa-zhihu"
+  url: "https://www.zhihu.com/people/jiang-huang-gua-38"
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
