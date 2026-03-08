@@ -119,8 +119,8 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "hsjy/hsjy.github.io" # <gh-username>/<repo>
-    repo_id: "R_kgDORghmxw
+    repo: hsjy/hsjy.github.io # <gh-username>/<repo>
+    repo_id: "R_kgDORghmxw"
     category: "General"
     category_id: "DIC_kwDORghmx84C34Z6"
     mapping: # optional, default to 'pathname'
