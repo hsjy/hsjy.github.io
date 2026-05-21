@@ -8,7 +8,7 @@ description: 安装Dabai相机驱动
 toc: true
 comments: true
 image:
-  path: assets/img/posts/26-2/Orbbec/cover_image_2.jpg
+  path: assets/img/posts/26-2/Orbbec/cover_image.jpg
   alt: Orbbec
 pin: false
 ---
@@ -32,7 +32,7 @@ dpkg -L orbbecsdk
 unzip ./OrbbecViewer_v1.10.18_202501031427_linux_x64_release.zip -d /mnt/data/users/hs
 ```
 解压后进入该文件夹，运行./OrbbecViewer即可。
-![orbbec_viewer_1](assets/img/posts/26-2/Orbbec/orbbec_viewer_1.png)
+![orbbec_viewer](assets/img/posts/26-2/Orbbec/orbbec_viewer.png)
 
 ## Python版本的Orbbec SDK构建
 下载v1.3.4版本的[pyorbbecsdk](https://github.com/orbbec/pyorbbecsdk/tags)（其他的v1.x.x版本亦可），下载`tar.gz`的源码。
@@ -83,4 +83,3 @@ python3 examples/depth_viewer.py
 python3 examples/color.py
 python3 examples/net_device.py # Requires ffmpeg installation for network device
 ```
-![Orbbec_viewer_3](assets/img/posts/26-2/Orbbec/orbbec_viewer_3.png)
