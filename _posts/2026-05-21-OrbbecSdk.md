@@ -1,5 +1,5 @@
 ---
-title: 奥比中光深度相机（Dabai）SDK安装
+title: 奥比中光Dabai SDK安装
 date: 2026-05-21 17:20:32 +0800
 categories: [工具]
 tags: [linux]     # TAG names should always be lowercase
@@ -13,7 +13,7 @@ image:
 pin: false
 ---
 
-因为手中这款相机型号较老（DaBai SN），因而需要按照github仓库SDK v1.0的版本来安装，<https://github.com/orbbec/OrbbecSDK>
+因为手中这款深度相机型号较老（DaBai SN），因而需要按照github仓库SDK v1.0的版本来安装，<https://github.com/orbbec/OrbbecSDK>
 ​
 ## Debian方式安装
 安装OrbbecSDK：[Gitee](https://gitee.com/orbbecdeveloper/OrbbecSDK/blob/main/doc/tutorial/English/Installation_guidance.md)
