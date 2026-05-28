@@ -8,7 +8,7 @@ description: 安装Dabai相机驱动
 toc: true
 comments: true
 image:
-  path: assets/img/posts/26-2/Orbbec/cover_image.jpg
+  path: assets/img/posts/26-2/Orbbec/cover.jpg
   alt: Orbbec
 pin: false
 ---
